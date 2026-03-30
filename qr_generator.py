@@ -8,7 +8,7 @@ import qrcode
 
  
 
-data = "https://mountaingoat.notion.site/32fb86050ca58047a788e781ad8764a5"  # Replace with your URL or text
+data = "https://www.example.com"  # Replace with your URL or text
 
  
 
