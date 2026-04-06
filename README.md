@@ -5,5 +5,5 @@ A simple python QR code generator.
 Runs in Python3.
 
 Run with: 
-pip install qrcode[pil]
-python qr_generator.py
+pip3 install qrcode[pil]
+python3 qr_generator.py
